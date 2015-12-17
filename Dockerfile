@@ -1,7 +1,7 @@
 FROM ubuntu:14.04
 MAINTAINER Oliver Letterer, oliver.letterer@sparrow-labs.de
 
-ENV SWIFT_VERSION 2.2-SNAPSHOT-2015-12-01-b
+ENV SWIFT_VERSION 2.2-SNAPSHOT-2015-12-10-a
 ENV SWIFT_PLATFORM ubuntu14.04
 
 RUN apt-get update && \
